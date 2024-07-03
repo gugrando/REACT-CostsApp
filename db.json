@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "id": "ea3e",
+      "name": "Server Components Market",
+      "budget": "21000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Server PC Cables",
+          "cost": "500",
+          "description": "2x USB Cables F",
+          "id": "b6b5dc67-2afe-43d3-b563-37166c5ae176"
+        }
+      ]
+    },
+    {
+      "id": "0544",
+      "name": "Java Developer",
+      "budget": "13000",
+      "category": {
+        "id": "2",
+        "name": "Dev"
+      },
+      "cost": 5500,
+      "services": [
+        {
+          "name": "Test Project",
+          "cost": "1500",
+          "description": "Test of Service Form False",
+          "id": "eef6f494-9d46-40d5-96bc-9642f19809a3"
+        },
+        {
+          "name": "Test Project 2",
+          "cost": "4000",
+          "description": "222",
+          "id": "d81bbe16-d554-4600-a926-e426cd2077dd"
+        }
+      ]
+    },
+    {
+      "id": "46fe",
+      "name": "Notion Template",
+      "budget": "1000",
+      "category": {
+        "id": "4",
+        "name": "Planner"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Dev"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planner"
+    }
+  ]
+}
